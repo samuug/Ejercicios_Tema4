@@ -1,7 +1,7 @@
 # Ejercicios_Tema4
 
 ## Nota: 
-Mi repositorio es: 
+Mi repositorio es: https://github.com/samuug/Ejercicios_Tema4.git  
 
 ## Enunciado:
 
@@ -13,19 +13,19 @@ A continuación se muestra un ejemplo de posibles visualizaciones y valores intr
 
 Introduzca el número de notas:
 
-3
+__3__  
 
-Nota:
+Nota:  
 
-12
+__12__  
 
-Nota:
+Nota:  
 
-17,5
+__17,5__  
 
-Nota:
+Nota:  
 
-14
+__14__  
 
 La media es 14,5
 ### 2. La nota media (versión 2)
@@ -36,15 +36,15 @@ Ejemplo de ejecución del algoritmo:
 
 ¿Nota (-1 para terminar)?
 
-9
+__9__  
 
 ¿Nota (-1 para terminar)?
 
-18
+__18__  
 
 ¿Nota (-1 para terminar)?
 
--1
+__-1__  
 
 La nota media es 13,5  
 
@@ -56,27 +56,27 @@ Ejemplo de ejecución del algoritmo:
 
 ¿Nota (-1 para terminar)?
 
-14
+__14__  
 
 ¿Nota (-1 para terminar)?
 
-12
+__12__  
 
 ¿Nota (-1 para terminar)?
 
-9
+__9__  
 
 ¿Nota (-1 para terminar)?
 
-7
+__7__  
 
 ¿Nota (-1 para terminar)?
 
-10
+__10__  
 
 ¿Nota (-1 para terminar)?
 
--1
+__-1__  
 
 Media = 10,4 (60 % ≥10)  
 
@@ -155,8 +155,8 @@ Fin
 
 ¿Qué hace?
 
-Corrija este algoritmo para que logre lo que se podría esperar.
-7. Visualización de citas de películas (versión 1)
+Corrija este algoritmo para que logre lo que se podría esperar.  
+### 7. Visualización de citas de películas (versión 1)
 
 El programa debe mostrar un menú con una lista de películas y una opción para salir.
 
@@ -189,10 +189,10 @@ Cuidado, es una auténtica carnicería
 Adios
 
 ¡Por supuesto, puede elegir las películas y las citas que prefiera!
-8. Visualización de citas de películas (versión 2)
+### 8. Visualización de citas de películas (versión 2)
 
 Retomar el algoritmo anterior, modificándolo para que no se muestre siempre la misma cita de una película, sino que haya dos o tres y presente aleatoriamente una de ellas.
-9. Escribir un múltiplo de tres
+### 9. Escribir un múltiplo de tres
 
 Escriba un programa que haga que el usuario escriba un múltiplo de tres y no se detenga hasta que el número sea correcto.
 
@@ -211,7 +211,7 @@ Error 16427 no es un múltiplo de 3
 51321
 
 Ok: 51321 es un múltiplo de 3
-10. Arte ASCII 1
+### 10. Arte ASCII 1
 
 El arte ASCII consiste en hacer un diseño usando solo caracteres. Una de las formas más primitivas de este arte son los emoticonos: los caracteres :-) dibujan una carita sonriente.
 
@@ -240,7 +240,7 @@ Ejemplo de ejecución:
 ########
 
 ########
-11. Arte ASCII 2
+### 11. Arte ASCII 2
 
 Dibujar una de las siguientes formas, según la elección del usuario:
 Images/04RI04.png
