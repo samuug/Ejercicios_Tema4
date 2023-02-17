@@ -88,19 +88,19 @@ Ejemplo de ejecución del algoritmo:
 
 ¿En qué número entre 1 y 100 estoy pensando?
 
-23
+__23__
 
 Menor
 
-15
+__15__
 
 Mayor
 
-19
+__19__
 
 Menor
 
-17
+__17__
 
 Bravo, lo ha encontrado
 ### 5. Ahora tengo que encontrarlo yo
@@ -111,23 +111,23 @@ Ejemplo de ejecución del algoritmo:
 
 Elija un número del 1 al 100, luego presione cualquier tecla.
 
-a
+__a__
 
 Pruebo con 45, ¿es mayor, menor o es el número (+/-/=)?
 
--
+__-__
 
 Pruebo con 10, ¿es mayor, menor o es el número (+/-/=)?
 
-+
+__+__
 
 Pruebo con 22, ¿es mayor, menor o es el número (+/-/=)?
 
-+
+__+__
 
 Pruebo con 27, ¿es mayor, menor o es el número (+/-/=)?
 
-=
+__=__
 
 Fenomenal, lo he encontrado después de 4 intentos.
 ### 6. ¿Qué hace este algoritmo?
@@ -176,15 +176,15 @@ Ejemplo de ejecución:
 
 5 - Salir de esta magnífica aplicación
 
-2
+__2__
 
 Me llamo Bond, James Bond
 
-1
+__1__
 
 Cuidado, es una auténtica carnicería
 
-5
+__5__
 
 Adios
 
@@ -200,15 +200,15 @@ Ejemplo de ejecución del algoritmo:
 
 Escriba un múltiplo de 3
 
-7579
+__7579__
 
 Error 7579 no es un múltiplo de 3
 
-16427
+__16427__
 
 Error 16427 no es un múltiplo de 3
 
-51321
+__51321__
 
 Ok: 51321 es un múltiplo de 3
 ### 10. Arte ASCII 1
@@ -221,15 +221,15 @@ Ejemplo de ejecución:
 
 ¿Anchura?
 
-8
+__8__
 
 ¿Altura?
 
-5
+__5__
 
 ¿Carácter?
 
-#
+__#__
 
 ########
 
@@ -243,17 +243,17 @@ Ejemplo de ejecución:
 ### 11. Arte ASCII 2
 
 Dibujar una de las siguientes formas, según la elección del usuario:
-Images/04RI04.png
+
 
 Ejemplo de ejecución:
 
 ¿tamaño?
 
-5
+__5__
 
 ¿Carácter?
 
-#
+__#__
 
 ¿forma?
 
@@ -269,7 +269,7 @@ Ejemplo de ejecución:
 
 6 - ajedrezado
 
-2
-Images/04RI05.png
+__2__
+
 
 Observe que el número de líneas es igual al número de columnas.
